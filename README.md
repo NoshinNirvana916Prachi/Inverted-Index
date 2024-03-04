@@ -2,9 +2,10 @@
 
 #### Sequence diagram 
 
-![InvertedIndex](https://github.com/NoshinNirvana916Prachi/Inverted-Index/assets/58959257/9bbd760b-9b03-4cb4-807f-ffe551bd3aa4)
+
 
 In this sequence diagram:
+![InvertedIndex](https://github.com/NoshinNirvana916Prachi/Inverted-Index/assets/58959257/7cdd3da5-47f9-497b-a96c-8d89d8ed8dd7)
 
 1. The RMI client looks up the RMI registry for the InvertedIndexService.
 2. The RMI registry returns the reference to the InvertedIndexService.
