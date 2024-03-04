@@ -1,0 +1,5 @@
+service/InvertedIndexService.class
+service/InvertedIndexServiceImpl.class
+service/InvertedIndexServiceImpl$IndexingTask.class
+client/InvertedIndexClient.class
+service/InvertedIndexServiceImpl$IndexingCallable.class
