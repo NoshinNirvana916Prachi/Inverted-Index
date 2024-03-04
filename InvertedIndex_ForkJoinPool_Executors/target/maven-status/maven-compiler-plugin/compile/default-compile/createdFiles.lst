@@ -1,0 +1,3 @@
+service/InvertedIndexServiceImpl.class
+client/InvertedIndexClient.class
+service/InvertedIndexService.class
