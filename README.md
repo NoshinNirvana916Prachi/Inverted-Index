@@ -2,9 +2,6 @@
 
 #### Sequence diagram 
 
-
-
-In this sequence diagram:
 ![InvertedIndex](https://github.com/NoshinNirvana916Prachi/Inverted-Index/assets/58959257/7cdd3da5-47f9-497b-a96c-8d89d8ed8dd7)
 
 In this sequence diagram:
