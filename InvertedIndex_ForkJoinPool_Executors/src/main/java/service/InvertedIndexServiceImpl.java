@@ -51,9 +51,9 @@ public class InvertedIndexServiceImpl extends UnicastRemoteObject implements Inv
         try {
             // Create an instance of the service
             InvertedIndexServiceImpl invertedIndexService = new InvertedIndexServiceImpl();
-            LocateRegistry.createRegistry(8099);
+            LocateRegistry.createRegistry(8080);
             // Bind the service to the RMI registry
-            Naming.rebind("rmi:168.138.93.236//:8099/InvertedIndexService", invertedIndexService);
+            Naming.rebind("rmi:168.138.93.236//:8080/InvertedIndexService", invertedIndexService);
 
             System.out.println("InvertedIndexService is running...");
         } catch (Exception e) {
